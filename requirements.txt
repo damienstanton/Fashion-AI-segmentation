@@ -1,0 +1,8 @@
+jupyterlab
+opencv-python
+keras
+tensorflow
+pandas
+numpy
+tensorflow-hub
+dytb
