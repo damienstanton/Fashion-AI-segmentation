@@ -6,3 +6,5 @@ pandas
 numpy
 tensorflow-hub
 dytb
+pylint
+yapf
